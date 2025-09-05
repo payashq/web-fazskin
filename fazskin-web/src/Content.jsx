@@ -19,6 +19,10 @@ export default function Navbar() {
                         <div className="jadwal-button"><h4>Cek Jadwal</h4> <img src="/calendar-check.png" alt="" style={{height: '20px', width: '20px'}}/></div>
                     </div>
                 </div>
+                <div className='introduce-web'>
+                    <h2>Kulit Sehat & Percaya Diri Bersama Fazskin</h2>
+                    <p>Rasakan pengalaman perawatan premium dengan teknologi terkini dan sentuhan ahli untuk hasil terbaik.</p>
+                </div>
             </div>
         </div>
         </header>
